@@ -3,9 +3,9 @@ Hi there 👋 I'm Abdul Raheem
 
 Welcome to my GitHub profile! I am a recent graduate eager to embark on my journey in the field of data analytics. With a strong foundation in data visualization, statistical analysis, and Python programming, I am dedicated to uncovering actionable insights and driving meaningful outcomes.
 
-.🔭 I am currently enhancing my skills in machine learning, data preprocessing, and exploratory data analysis (EDA) to help organizations make informed decisions.
-.🌱 I am learning machine learning algorithms and their applications.
-.👯 I am looking to collaborate on open-source data analytics projects and machine learning model development.
+🔭 I am currently enhancing my skills in machine learning, data preprocessing, and exploratory data analysis (EDA) to help organizations make informed decisions.
+🌱 I am learning machine learning algorithms and their applications.
+👯 I am looking to collaborate on open-source data analytics projects and machine learning model development.
 
 🚀 Technical Skills
 . Programming Languages: Python, SQL
